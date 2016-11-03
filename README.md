@@ -1,4 +1,4 @@
-# y
+# A template for tsy-cli
 
 > A Vue.js project
 
